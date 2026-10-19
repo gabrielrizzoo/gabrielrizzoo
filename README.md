@@ -8,8 +8,8 @@ Busco estágio em **UI/UX Design e Front-End**, com o objetivo de atuar em **Des
 
 <p>
   <a href="https://gabrielrizzo.vercel.app/"><img alt="Portfólio" src="https://img.shields.io/badge/Portfólio-gabrielrizzo.vercel.app-4B0BF2?style=for-the-badge&labelColor=13072F"></a>
-  <a href="https://www.linkedin.com/in/gabrielrizzoo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gabrielrizzoo-4B0BF2?style=for-the-badge&logo=linkedin&logoColor=D4FF3F&labelColor=13072F"></a>
-  <a href="mailto:gabriel.drizzo@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-gabriel.drizzo@gmail.com-4B0BF2?style=for-the-badge&logo=gmail&logoColor=D4FF3F&labelColor=13072F"></a>
+  <a href="https://www.linkedin.com/in/gabrielrizzoo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gabrielrizzoo-4B0BF2?style=for-the-badge&labelColor=13072F"></a>
+  <a href="mailto:gabriel.drizzo@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-gabriel.drizzo@gmail.com-4B0BF2?style=for-the-badge&labelColor=13072F"></a>
 </p>
 
 ### Projetos em destaque
